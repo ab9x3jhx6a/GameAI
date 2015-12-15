@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 45ef8c6aad9b0404188b8fb84f1a14f4
+timeCreated: 1446524642
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Floor: {fileID: 132394, guid: 9167cea7fe1830745a6bbe9b623c4f43, type: 2}
+  - Bricks: {fileID: 162804, guid: 2199d9883e13cef4aa092aa5d5395ec8, type: 2}
+  - Wall: {fileID: 123068, guid: d355d127d9a484f478f558a2c4d743ac, type: 2}
+  - WallWithTorch: {fileID: 156950, guid: 4aa17aa3dfe807f44b3eceba35e4228c, type: 2}
+  - Roof: {fileID: 126266, guid: 7675544bb7f77fe49bb1ec4a8ae845c4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

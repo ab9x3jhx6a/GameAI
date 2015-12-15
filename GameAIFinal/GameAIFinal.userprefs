@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\GA\Assets\Scripts\Entity.cs">
+    <Files>
+      <File FileName="..\GA\Assets\Scripts\hit.cs" Line="26" Column="39" />
+      <File FileName="..\GA\Assets\Scripts\Agent.cs" Line="100" Column="3" />
+      <File FileName="..\GA\Assets\Scripts\Entity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

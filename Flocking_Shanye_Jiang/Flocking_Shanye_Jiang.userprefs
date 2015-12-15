@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\MusicVR\Assets\Virtualizr\Shaders\gs_25780_2.shader">
+    <Files>
+      <File FileName="..\..\MusicVR\Assets\Virtualizr\Shaders\acidtunnel.shader" Line="1" Column="1" />
+      <File FileName="..\..\MusicVR\Assets\Virtualizr\Shaders\gs_25780_2.shader" Line="16" Column="5" />
+      <File FileName="..\..\MusicVR\Assets\Virtualizr\Shaders\gs_26491_2.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
